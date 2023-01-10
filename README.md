@@ -1,2 +1,2 @@
-# stdout
-Dummy repo for testing out stuff
+# batch change test repo
+Dummy repo for testing out batch changes stuff like ...skipped for brevity...
